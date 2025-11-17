@@ -1,0 +1,7 @@
+
+Quick Report - Credit Risk (synthetic target)
+Rows: 1000
+Features (after preprocessing): 26
+Accuracy: 1.0000
+F1-score: 1.0000
+Output files saved in folder: output

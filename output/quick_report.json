@@ -1,0 +1,6 @@
+{
+  "dataset_rows": 1000,
+  "features_after_preprocessing": 26,
+  "accuracy": 1.0,
+  "f1_score": 1.0
+}
